@@ -1,0 +1,13 @@
+// imports utilities
+@import "utilities/variables";
+@import "utilities/mixins";
+
+// import base
+@import "base/general";
+
+// import views
+@import "views/productos";
+@import "views/detalle";
+@import "views/categorias";
+@import "views/carrito";
+//@import "views/mediaqueries";
