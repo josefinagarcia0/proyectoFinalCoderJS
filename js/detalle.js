@@ -146,7 +146,7 @@ agregar.addEventListener("click", () => {
 // Alerta de producto añadido (toastify)
 agregar.addEventListener("click", () => {
     Toastify({
-        text: "Producto añadido!",
+        text: "Añadido!",
         duration: 1000,
         //destination: "https://github.com/apvarun/toastify-js",
         //newWindow: true,
